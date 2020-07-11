@@ -9,7 +9,7 @@
   "author": "Chaitanya Karanam",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.17.0"
+    "axios": "^0.19.2"
   },
   "keywords": [
     "node",
